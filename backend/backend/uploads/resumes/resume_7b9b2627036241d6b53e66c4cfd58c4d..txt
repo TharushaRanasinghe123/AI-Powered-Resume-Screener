@@ -1,0 +1,13 @@
+John Doe
+Email: john.doe@email.com
+Phone: +1-555-0123
+
+EXPERIENCE:
+Software Engineer at Tech Company (2020-2023)
+- Developed web applications
+- Used Python and JavaScript
+
+EDUCATION:
+BS Computer Science - University Name
+
+SKILLS: Python, FastAPI, JavaScript, SQL

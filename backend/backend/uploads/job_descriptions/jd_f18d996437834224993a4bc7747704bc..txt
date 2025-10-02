@@ -1,0 +1,12 @@
+Job Title: Senior Python Developer
+
+Requirements:
+- 5+ years Python experience
+- FastAPI or Django framework knowledge
+- JavaScript and SQL skills
+- Bachelor's degree in Computer Science
+
+Responsibilities:
+- Develop backend APIs
+- Design database schemas
+- Collaborate with frontend team
